@@ -1,0 +1,11 @@
+name: Waypoints
+version: '${project.version}'
+main: com.connor.waypoints.Waypoints
+api-version: 1.19
+commands:
+  show_wp:
+    description: Shows waypoints.
+  delete_wp:
+    description: Deletes waypoint.
+  wp:
+    description: Creates waypoint.
