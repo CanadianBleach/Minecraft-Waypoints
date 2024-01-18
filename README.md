@@ -1,5 +1,5 @@
 # Overview
-I always get lost in Minecraft. Simply put, I wanted to not get lost. So I created this plugin to save coordinates in the game. That way I can run the command in game and look at a list of marked locations I made.
+I always get lost in Minecraft. Simply put, I wanted to not get lost (without beacons). So I created this plugin to save coordinates in the game. That way I can run the command in-game and look at a list of marked locations.
 
 [Software Demo Video](https://youtu.be/PqTil18cHHE)
 
